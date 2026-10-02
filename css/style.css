@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    color: #1f2937;
+}
+
+.site-header {
+    background-color: #17365d;
+    color: white;
+    padding: 20px;
+}
+
+.site-header h1 {
+    margin: 0;
+}
+
+.main-nav {
+    background-color: white;
+    padding: 15px 20px;
+    border-bottom: 1px solid #dfe3e8;
+}
+
+.main-nav a {
+    color: #17365d;
+    text-decoration: none;
+    margin-right: 20px;
+}
